@@ -1,0 +1,39 @@
+h3.main-heading {
+  color: Black; 
+  font-size: 24px;
+  text-align: center;
+  font-family: Arial;
+  font-weight: 700;
+  margin: 20px;
+}
+
+h1{
+  color: Black; 
+  font-size: 42px;
+  text-align: center;
+  font-family: Arial;
+  font-weight: 700;
+  margin: 20px;
+}
+
+table.one{
+  margin-top: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-family: Arial;
+  text-align: center;
+}
+
+.left-text{
+  text-align: left;
+}
+
+table.two{
+  margin-top: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-family: Arial;
+  font-size: 24px;
+  font-weight: 700;
+  text-align: center;
+}
