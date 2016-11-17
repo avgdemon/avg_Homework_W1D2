@@ -1,26 +1,48 @@
+body{
+  background-color: #EEE;
+  text-align: center;
+  font-family: serif;
+  line-height: 15px
+  font-size: 13px;
+  border-bottom: 5px black solid;
+  border-top: 5px black solid;
+  padding: 20px;
+  margin: 50px;
+}
+
 h3.main-heading {
   color: Black; 
   font-size: 24px;
-  text-align: center;
   font-family: Arial;
   font-weight: 700;
   margin: 20px;
+  color: black
+
 }
 
 h1{
   color: Black; 
   font-size: 42px;
-  text-align: center;
   font-family: Arial;
   font-weight: 700;
   margin: 20px;
+ 
 }
 
-table.one{
+h4{
+  font-family: Arial;
+  text-align: left;
+}
+
+h5{
+  font-family: Arial;
+  text-align: left;
+}
+
+.one{
   margin-top: 10px;
   margin-left: 50px;
   margin-right: 50px;
-  font-family: Arial;
   text-align: center;
 }
 
@@ -29,11 +51,21 @@ table.one{
 }
 
 table.two{
-  margin-top: 20px;
-  margin-left: 50px;
+  margin-top: 10px;
   margin-right: 50px;
   font-family: Arial;
-  font-size: 24px;
+  font-size: 16px;
   font-weight: 700;
   text-align: center;
+  color: black;
+}
+
+table.three{
+  margin-top: 10px;
+  margin-right: 50px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 700;
+  text-align: center;
+  color: black;
 }
